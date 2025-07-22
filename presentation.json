@@ -1,10 +1,18 @@
 [
   {
-    "title": "Titelfolie",
-    "content": "Willkommen zur Präsentation"
+    "title": "Herzlich Willkommen",
+    "content": "Präsentation: Lohnservice & Versicherungsberatung"
   },
   {
-    "title": "Agenda",
-    "content": "1. Einleitung\n2. Hauptteil\n3. Schluss"
+    "title": "Warum auslagern?",
+    "content": "Reduktion von Fehlern\nZeit- und Kostenersparnis\nRechtssicherheit"
+  },
+  {
+    "title": "Unser Angebot",
+    "content": "Lohnbuchhaltung und Versicherungsberatung im Paket.\nPreis: CHF 25–35 pro Mitarbeiter/Monat"
+  },
+  {
+    "title": "Ihre Vorteile",
+    "content": "🔹 Digitalisierung\n🔹 Persönliche Beratung\n🔹 Zukunftssicher"
   }
 ]
